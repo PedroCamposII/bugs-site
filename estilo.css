@@ -1,0 +1,11 @@
+.fundo1 h2{
+	/*utilizar cores duplas como background */
+	background: linear-gradient(to top,#909090,orange);
+	color: #fff;
+	padding: 3%;
+}
+/* SMALL DEVICES - SMARTPHONES*/
+@media screen and (min-width: 640px){
+
+}
+/* SMALL DEVICES - TABLETS*/
